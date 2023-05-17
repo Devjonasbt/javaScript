@@ -1,0 +1,31 @@
+body{
+    background-color: rgba(127, 255, 212, 0.795);
+}
+h1{
+    color: rgb(0, 136, 255);
+    justify-content: center;
+    display: flex;
+}
+p{
+    font-size: 22px;
+}
+section{
+    background-color: aliceblue;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    margin:0 auto;
+    border-radius: 25px;
+}
+#but{
+    display: flex;
+    justify-content: center;
+    width: 80px;
+    margin:0 auto;
+    color: rgb(29, 2, 2);
+    background-color: rgb(127, 255, 159);
+    font-size: 18px;
+    border-radius: 20px;
+
+}
