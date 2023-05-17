@@ -10,7 +10,7 @@ function clicou(){
  
 
     if(ano.value.length == 1 || ano.value >anoAtual){
-        window.alert("[ERRO] verifica o ano e tente novamento")
+        window.alert("[ERRO] verifica o ano e tente novamente")
     }
     else{
         var sexF = document.getElementsByName('radio')
